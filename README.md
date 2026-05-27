@@ -67,7 +67,7 @@
 
 </br>
 
-<div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=kaue-developer&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaue-developer&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
 </div>
