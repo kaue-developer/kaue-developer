@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=kaue-developer&style=for-the-badge&color=11823b"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Prompt+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Loading...;Full+Stack+Developer;Cybersecurity+enthusiast;Machine+learning+student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Prompt+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Loading...;Full+Stack+Developer;Robotics+student"/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/kau%C3%AA-barreto-benicio-8418b5272/)
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:kauebarretobenicio@gmail.com)
@@ -17,9 +17,9 @@
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlvcjd6YjMwcjBpaXozbzN3c29sZ3FhcjNoOWYwN3hzcng2Mnh0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iV8tbljCkHGF2/giphy.gif" align="right" width="220" height=400" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <h4>Full Stack developer and Machine learning student</h4>
+  <h4>Full Stack developer and Robotics student</h4>
 
-  Currently, I am focusing my studies on Machine Learning, electronics, and robotics.
+  Currently, I am focusing my studies on electronics, and robotics.
   I am a Full Stack developer and proficient in web development and API creation with Next.js.
 I am applying this knowledge to personal projects.
   <br><br>
@@ -27,8 +27,13 @@ I am applying this knowledge to personal projects.
   <h4>That i domain</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,mysql,mongodb"/>
 
+<div align="">
   <h4>That i learning</h4>
   <img src="https://skillicons.dev/icons?i=python"/>
+
+  <h4>That i want to learn</h4>
+  <img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi"
+</div>
   
   </div>
 </p>
@@ -55,7 +60,7 @@ I am applying this knowledge to personal projects.
   ![vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=00ff00)
   ![NETLIFY](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=00ff00)
   ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=00ff00)
-  ![cyberrsecurity](https://img.shields.io/badge/cybersecurity-black?style=for-the-badge&logo=hackthebox&logoColor=00ff00)
+  ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=00ff00)
   
 </div>
 
