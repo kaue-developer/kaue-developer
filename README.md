@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=kaue-developer&style=for-the-badge&color=11823b"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Prompt+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Loading...;Full+Stack+Developer;Robotics+student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Prompt+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Loading...;Full+Stack+Developer;Eletronics+and+robotics+student"/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/kau%C3%AA-barreto-benicio-8418b5272/)
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:kauebarretobenicio@gmail.com)
@@ -15,7 +15,7 @@
 
 
 <p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlvcjd6YjMwcjBpaXozbzN3c29sZ3FhcjNoOWYwN3hzcng2Mnh0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iV8tbljCkHGF2/giphy.gif" align="right" width="220" height=400" style="margin-left: 20px; border-radius: 15px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlvcjd6YjMwcjBpaXozbzN3c29sZ3FhcjNoOWYwN3hzcng2Mnh0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iV8tbljCkHGF2/giphy.gif" align="right" width="280" height=500" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <h4>Full Stack developer and Robotics student</h4>
 
