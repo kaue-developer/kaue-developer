@@ -15,7 +15,7 @@
 
 
 <p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlvcjd6YjMwcjBpaXozbzN3c29sZ3FhcjNoOWYwN3hzcng2Mnh0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iV8tbljCkHGF2/giphy.gif" align="right" width="280" height=500" style="margin-left: 20px; border-radius: 15px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlvcjd6YjMwcjBpaXozbzN3c29sZ3FhcjNoOWYwN3hzcng2Mnh0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iV8tbljCkHGF2/giphy.gif" align="right" width="240" height=500" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <h4>Full Stack developer and Robotics student</h4>
 
