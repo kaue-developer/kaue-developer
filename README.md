@@ -17,11 +17,11 @@
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlvcjd6YjMwcjBpaXozbzN3c29sZ3FhcjNoOWYwN3hzcng2Mnh0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iV8tbljCkHGF2/giphy.gif" align="right" width="220" height=400" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <h4>Machine learning student and cybersecurity enthusiast.</h4>
+  <h4>Full Stack developer and Machine learning student</h4>
 
-  Currently, I'm focusing my studies on machine learning and I'm passionate about cybersecurity. 
-  I'm a Full Stack JavaScript developer and I'm proficient in web development and creating APIs with Next.js. 
-  I also have knowledge of SQL and MongoDB databases. I've been applying this knowledge to personal projects.
+  Currently, I am focusing my studies on Machine Learning, electronics, and robotics.
+  I am a Full Stack developer and proficient in web development and API creation with Next.js.
+I am applying this knowledge to personal projects.
   <br><br>
 
   <h4>That i domain</h4>
@@ -67,7 +67,7 @@
 
 </br>
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=kaue-developer&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaue-developer&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
 </div>
