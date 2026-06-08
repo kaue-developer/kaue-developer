@@ -56,6 +56,7 @@ I am applying this knowledge to personal projects.
   ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=00ff00)
   ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=00ff00)
   ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=00ff00)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=00ff00)
   ![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=00ff00)
   ![vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=00ff00)
   ![NETLIFY](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=00ff00)
