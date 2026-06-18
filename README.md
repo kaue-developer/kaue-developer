@@ -17,7 +17,7 @@
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlvcjd6YjMwcjBpaXozbzN3c29sZ3FhcjNoOWYwN3hzcng2Mnh0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iV8tbljCkHGF2/giphy.gif" align="right" width="240" height=500" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <h4>Full Stack developer and Robotics student</h4>
+  <h4>Full Stack developer, JavaScript programmer and Robotics student</h4>
 
   Currently, I am focusing my studies on electronics, and robotics.
   I am a Full Stack developer and proficient in web development and API creation with Next.js.
