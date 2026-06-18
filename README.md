@@ -19,9 +19,9 @@
   <div>
   <h4>Full Stack developer, JavaScript programmer and Robotics student</h4>
 
-  Currently, I am focusing my studies on electronics, and robotics.
-  I am a Full Stack developer and proficient in web development and API creation with Next.js.
-I am applying this knowledge to personal projects.
+  Currently, I'm focusing my studies on electronics and robotics. I'm a Full Stack developer 
+  and JavaScript programmer, proficient in web development and creating websites and APIs with Next.js,
+  and I build applications with React Native. I'm applying this knowledge to personal projects.
   <br><br>
 
   <h4>That i domain</h4>
