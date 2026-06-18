@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=kaue-developer&style=for-the-badge&color=11823b"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Prompt+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Loading...;Full+Stack+Developer;Eletronics+and+robotics+student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Prompt+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Loading...;Full+Stack+Developer;JavaScript+programmer;Eletronics+and+robotics+student"/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/kau%C3%AA-barreto-benicio-8418b5272/)
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:kauebarretobenicio@gmail.com)
@@ -62,6 +62,7 @@ I am applying this knowledge to personal projects.
   ![NETLIFY](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=00ff00)
   ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=00ff00)
   ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=00ff00)
+  ![ReactNative](https://img.shields.io/badge/react_native-black?style=for-the-badge&logo=react&logoColor=00ff00)
   
 </div>
 
