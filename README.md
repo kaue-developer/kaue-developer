@@ -29,7 +29,7 @@
 
 <div align="">
   <h4>That i want to learn</h4>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell"
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,cs"
 </div>
   
   </div>
