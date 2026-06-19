@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=kaue-developer&style=for-the-badge&color=11823b"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Prompt+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Loading...;Full+Stack+Developer;JavaScript+programmer;Eletronics+and+robotics+student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Prompt+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Loading...;Full+Stack+Developer;JavaScript+programmer;Cybersecurity+Student"/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/kau%C3%AA-barreto-benicio-8418b5272/)
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:kauebarretobenicio@gmail.com)
@@ -17,11 +17,11 @@
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlvcjd6YjMwcjBpaXozbzN3c29sZ3FhcjNoOWYwN3hzcng2Mnh0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iV8tbljCkHGF2/giphy.gif" align="right" width="240" height=500" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <h4>Full Stack developer, JavaScript programmer and Robotics student</h4>
+  <h4>Full Stack developer, JavaScript programmer and Cybersecurity student</h4>
 
-  Currently, I'm focusing my studies on electronics and robotics. I'm a Full Stack developer 
-  and JavaScript programmer, proficient in web development and creating websites and APIs with Next.js,
-  and I build applications with React Native. I'm applying this knowledge to personal projects.
+  Currently, I am focusing my studies on Cybersecurity. I am a Full Stack developer and JavaScript programmer, 
+  proficient in web development and creating websites and APIs with Next.js, and I        
+  build applications with React Native. I am applying this knowledge to personal projects.
   <br><br>
 
   <h4>That i domain</h4>
