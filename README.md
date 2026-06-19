@@ -28,11 +28,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,mysql,mongodb"/>
 
 <div align="">
-  <h4>That i learning</h4>
-  <img src="https://skillicons.dev/icons?i=python"/>
-
   <h4>That i want to learn</h4>
-  <img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi"
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell"
 </div>
   
   </div>
